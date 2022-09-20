@@ -1,0 +1,12 @@
+.hotParent {
+  height: 100px;
+  width: 100%;
+  background-color: blueviolet;
+  .tagP {
+    font-size: 2rem;
+    color: white;
+  }
+  .tagSpan {
+    color: chartreuse;
+  }
+}
